@@ -48,8 +48,8 @@ persona_1.saludar();
 document.write("<br>");
 persona_2.saludar();
 
-persona_1.setNombre= "German André"; 
-persona_2.setNombre = "Paula Vanessa"; 
+persona_1.setNombre= "German André Rusco"; 
+persona_2.setNombre = "Paula Vanessa Ituarte"; 
 document.write("<br>");
 persona_1.despedirse();
 document.write("<br>");
